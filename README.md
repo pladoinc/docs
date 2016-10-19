@@ -33,4 +33,7 @@ verify that you are meeting all the requirements for a legal document.
 ## License
 
 All documents under this repository are under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-so that anyone can reuse and reproduce them in whichever you want.
+so that anyone can reuse and reproduce them in whichever way you want.
+
+Disclaimer: PLADO is not to be held responsible for any reuse of the documentation in this
+repository.
