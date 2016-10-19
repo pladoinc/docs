@@ -23,7 +23,7 @@ verify that you are meeting all the requirements for a legal document.
 
  * Corporate By-law [[Pages](pages/Corporate By-law.pages)] [[PDF](pdf/Corporate By-law.pdf)]
   * This is the set of our organization's by-laws. All terms and conditions under this document
-  are binding to all Officers of the Corporation and also set forwards the unchanging parts of
+  are binding to all members of the organization and also set forwards the unchanging parts of
   our mandate.
  * Sworn Declaration [[Pages](pages/Sworn Declaration.pages)] [[PDF](pdf/Sworn Declaration.pdf)]
   * This is a sworn declaration signed by all teachers at PLADO. It is the only element of
