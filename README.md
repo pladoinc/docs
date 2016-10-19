@@ -21,7 +21,14 @@ verify that you are meeting all the requirements for a legal document.
 
 ## List of Documents
 
-(Nothing yet.)
+ * Corporate By-law ([Pages](pages/Corporate By-law.pages) [PDF](pdf/Corporate By-law.pdf))
+  * This is the set of our organization's by-laws. All terms and conditions under this document
+  are binding to all Officers of the Corporation and also set forwards the unchanging parts of
+  our mandate.
+ * Sworn Declaration ([Pages](pages/Sworn Declaration.pages) [PDF](pdf/Sworn Declaration.pdf))
+  * This is a sworn declaration signed by all teachers at PLADO. It is the only element of
+  consideration that goes into deciding the elligibility of teachers. This requirement is also
+  stated under our by-laws.
 
 ## License
 
