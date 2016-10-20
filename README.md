@@ -11,8 +11,6 @@ document.
 If you have any concerns with the content in this repository, please feel free to
 [contact us](http://plado.ca/contact).
 
-## List of Documents
-
  * **Corporate By-law** [[Pages](pages/Corporate By-law.pages)] [[PDF](pdf/Corporate By-law.pdf)]
   * This is the set of our organization's by-laws. All terms and conditions under this document
   are binding to all members of the organization and also set forwards the unchanging parts of
@@ -25,7 +23,7 @@ If you have any concerns with the content in this repository, please feel free t
 ## License
 
 All documents under this repository are under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-so that anyone can reuse and reproduce them in whichever way you want.
+so that anyone can reuse and reproduce them in whichever way they want.
 
-Disclaimer: PLADO is not to be held responsible for any reuse of the documentation in this
-repository.
+Disclaimer: PLADO is not to be held responsible for any reuse
+of the documentation in this repository.
