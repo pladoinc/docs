@@ -11,14 +11,6 @@ document.
 If you have any concerns with the content in this repository, please feel free to
 [contact us](http://plado.ca/contact).
 
-## Contributing
-
-If you would like to contribute to improving our documents, feel free to submit a PR
-or an issue with suggestions.
-
-If you are submitting a PR, please be sure to check your spelling & grammar as well as
-verify that you are meeting all the requirements for a legal document.
-
 ## List of Documents
 
  * **Corporate By-law** [[Pages](pages/Corporate By-law.pages)] [[PDF](pdf/Corporate By-law.pdf)]
