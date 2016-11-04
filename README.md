@@ -11,6 +11,12 @@ document.
 If you have any concerns with the content in this repository, please feel free to
 [contact us](http://plado.ca/contact).
 
+To see the updated information regarding PLADO on the Governemnt of Canada website,
+see [here](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpDtls.html?corpId=9949348&V_TOKEN=1478223706766&crpNm=PLADO&crpNmbr=&bsNmbr=).
+
+ * **Certificate of Incorporation** [[PDF](articles-of-inc/Certificate of Incorporation.pdf)]
+  * This is the Certificate of Incorporation as issued by the Federal Government of Canada to approve
+  PLADO Inc. as an official nonprofit incorporation.
  * **Corporate By-law** [[Pages](pages/Corporate By-law.pages)] [[PDF](pdf/Corporate By-law.pdf)]
   * This is the set of our organization's by-laws. All terms and conditions under this document
   are binding to all members of the organization and also set forwards the unchanging parts of
