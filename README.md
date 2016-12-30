@@ -25,6 +25,13 @@ see [here](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpDtls.html?c
   * This is a sworn declaration signed by all teachers at PLADO. It is the only element of
   consideration that goes into deciding the elligibility of teachers. This requirement is also
   stated under our by-laws.
+ * **Teacher's Agreement** [[Pages](pages/Teacher's Agreement.pages)] [[PDF](pdf/Teacher's Agreement.pdf)]
+  * This is the contract between PLADO and teachers at PLADO that is entered upon to define
+    the characteristics of our relationship together.
+ * **Waiver and Release** [[Pages](pages/Waiver and Release.pages)] [[PDF](pdf/Waiver and Release.pdf)]
+  * This is a standard waiver form signed by both teachers and students at PLADO which takes
+    away liability of injuries on premises away from PLADO (these are typically covered by
+    the provider of the location, i.e. a library has certain insurance available for incidents).
 
 ## License
 
